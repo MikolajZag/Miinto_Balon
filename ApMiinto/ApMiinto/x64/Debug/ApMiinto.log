@@ -1,0 +1,4 @@
+﻿  ApMiinto.cpp
+C:\Users\Mikol\source\repos\ApMiinto\ApMiinto\ApMiinto.cpp(68,42): warning C4244: "argument": konwersja z "double" do "float", możliwa utrata danych
+C:\Users\Mikol\source\repos\ApMiinto\ApMiinto\ApMiinto.cpp(72): warning C4715: "pompuj”: niewszystkie ścieżki kodu zwracają wartość
+  ApMiinto.vcxproj -> C:\Users\Mikol\source\repos\ApMiinto\x64\Debug\ApMiinto.exe
